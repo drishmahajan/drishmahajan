@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey there! I'm Drish Mahajan<br><br>I'm a passionate Full Stack Developer who loves building creative projects and solving real-world problems with code.<br><br>- 💻 Skilled in MERN Stack, Java,DSA, and API design<br>- 🧠 Over 250+ LeetCode problems solved<br>- 🚀 Always learning, always building<br>- 🎯 Seeking exciting opportunities to grow and collaborate<br><br>> “Code is like art—when done right, it inspires.”
+## 👋 Hey there! I'm Drish Mahajan<br><br>I'm a passionate Full Stack Developer who loves building creative projects and solving real-world problems with code.<br><br>- 💻 Skilled in MERN Stack, Java,DSA, and API design<br>- 🧠 Over 400+ LeetCode problems solved<br>- 🚀 Always learning, always building<br>
 
 
 ## 🌐 Socials:
